@@ -6,8 +6,10 @@
 Всего предсказанных белков:
 ![Alt text](/imgs/prot.png?raw=true "Optional Title")
 
-Анатировано с помощью бактерии MIL-1:
+Аннотировано с помощью бактерии MIL-1:
 ![Alt text](/imgs/Mil.png?raw=true "Optional Title")
 
-Анатировано с помощью  SwissProt:
+Аннотировано с помощью  SwissProt:
 ![Alt text](/imgs/SwissProt.png?raw=true "Optional Title")
+
+Минимум 3610 - 3331 - 52 = 227 белков остались не аннотированы.
