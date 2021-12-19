@@ -4,7 +4,7 @@
 
 Ноутбук 2 (biopython): https://colab.research.google.com/drive/10921De4h0GiU-Eopf7DI5KIVi4QGWJJb?usp=sharing
 
-Всего предсказанных белков:
+Всего белков:
 ![Alt text](/imgs/prot.png?raw=true "Optional Title")
 
 Аннотировано с помощью бактерии MIL-1:
@@ -13,4 +13,4 @@
 Аннотировано с помощью  SwissProt:
 ![Alt text](/imgs/SwissProt.png?raw=true "Optional Title")
 
-Минимум 3610 - 3331 - 52 = 227 белков остались не аннотированы.
+Минимум 3610 - 3331 - 52 = 227 белков осталось не аннотированы.
